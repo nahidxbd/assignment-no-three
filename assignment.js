@@ -19,7 +19,7 @@ console.log("The amount of Cubic = " + result);
 
 
 //3.brickCalculator
-brickCalculator function brickCalculator(numOfFloors){
+        function brickCalculator(numOfFloors){
         if(numOfFloors<=0){
         console.log("Number of floors can't be 0 or less")
         return;
